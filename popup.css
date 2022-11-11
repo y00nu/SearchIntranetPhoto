@@ -62,7 +62,3 @@ input{
     font-size: var(--M-font);
     padding: 4px 0px;
 }
-
-input:focus{
-    
-}
