@@ -1,0 +1,14 @@
+{
+    "name": "Search One's Face",
+    "description": "Search for one's face on the intranet",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "browser_action":{
+        "icons": {
+            "32": "icon32.png"
+          }
+    }
+  }
